@@ -1,0 +1,14 @@
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\bin\Debug\net8.0\Multiple concept Assignment01.exe
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\bin\Debug\net8.0\Multiple concept Assignment01.deps.json
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\bin\Debug\net8.0\Multiple concept Assignment01.runtimeconfig.json
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\bin\Debug\net8.0\Multiple concept Assignment01.dll
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\bin\Debug\net8.0\Multiple concept Assignment01.pdb
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.AssemblyInfoInputs.cache
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.AssemblyInfo.cs
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.dll
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\refint\Multiple concept Assignment01.dll
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.pdb
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\Multiple concept Assignment01.genruntimeconfig.cache
+C:\Users\madani\OneDrive\Desktop\CSharp\Multiple concept Assignment01\Multiple concept Assignment01\obj\Debug\net8.0\ref\Multiple concept Assignment01.dll
