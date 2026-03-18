@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple concept Assignment02", "Multiple concept Assignment02\Multiple concept Assignment02.csproj", "{FEA9BCAE-1F07-4CF3-B084-C1D99BBBA054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA9BCAE-1F07-4CF3-B084-C1D99BBBA054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA9BCAE-1F07-4CF3-B084-C1D99BBBA054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA9BCAE-1F07-4CF3-B084-C1D99BBBA054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA9BCAE-1F07-4CF3-B084-C1D99BBBA054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {706162D7-D31F-4170-8522-6E6250510A97}
+	EndGlobalSection
+EndGlobal
