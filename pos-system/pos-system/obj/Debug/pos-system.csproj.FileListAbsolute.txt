@@ -1,0 +1,15 @@
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\bin\Debug\pos-system.exe.config
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\bin\Debug\pos-system.exe
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\bin\Debug\pos-system.pdb
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos-system.csproj.AssemblyReference.cache
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos_system.Form1.resources
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos_system.Form2.resources
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos_system.Form3.resources
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos_system.Form4.resources
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos_system.Properties.Resources.resources
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos-system.csproj.GenerateResource.cache
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos-system.csproj.CoreCompileInputs.cache
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos-system.exe
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos-system.pdb
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos-system.exe.config
+C:\Users\madani\OneDrive\Desktop\CSharp\pos-system\pos-system\obj\Debug\pos_system.Form5.resources
